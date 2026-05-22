@@ -10,7 +10,7 @@
   "author": "Jatinder singh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "axios": "^1.13.5",
     "http": "0.0.0",
     "socketio": "^1.0.0"
